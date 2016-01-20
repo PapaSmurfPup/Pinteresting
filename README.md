@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample application for
+This is my pinteresting sample assignment for
 [*One Month Rails*](http://onemonthrails.com)
 
-by [Mattan Griffel](http://mattangriffel.com)
+by [Darrin Martin](http://www.facebook.com/TheDerwood)
